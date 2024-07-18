@@ -65,6 +65,7 @@ img {
   font-weight: 600;
   line-height: var(--height);
   text-align: center;
+  color: var(--general-colorL);
 }
 
 .btn:hover {
